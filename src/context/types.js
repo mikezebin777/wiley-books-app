@@ -1,0 +1,4 @@
+export const GET_BOOKS = 'GET_BOOKS';
+export const TOGGLE_DISPLAY_ALL_BOOKS = 'TOGGLE_DISPLAY_ALL_BOOKS';
+export const SORT_BOOKS = 'SORT_BOOKS';
+export const SET_LOADING = 'SET_LOADING';
